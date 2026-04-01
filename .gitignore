@@ -1,0 +1,8 @@
+# Environment
+.venv
+
+# Dataset (Downloadable from pipeline)
+*/data/
+
+# Secrets
+.env
