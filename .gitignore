@@ -6,3 +6,11 @@
 
 # Secrets
 .env
+
+# System
+.DS_Store
+__pycache__/
+*.pyc
+
+# Logs
+lightning_logs/
