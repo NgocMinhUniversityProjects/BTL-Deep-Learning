@@ -21,3 +21,4 @@ config: {'_wandb': {}}
 2026-04-03 05:34:09,773 INFO    MainThread:31648 [wandb_run.py:_redirect():2465] Redirects installed.
 2026-04-03 05:34:09,776 INFO    MainThread:31648 [wandb_init.py:init():1082] run started, returning control to user process
 2026-04-03 05:34:09,777 INFO    MainThread:31648 [wandb_run.py:_config_callback():1403] config_cb None None {'model': 'ConvNeXt-V2 Base', 'finetune_mode': 'scratch', 'epochs': 6, 'freeze_epochs': 2, 'batch_size': 32, 'img_size': 224, 'run_fingerprint': '1444ddea0874bf817536447b742de727c1c288dd69deee10163818ec0f2df844', 'wandb_mode_used': 'online'}
+2026-04-03 09:37:29,540 INFO    MainThread:31648 [wandb_init.py:_post_run_cell_hook():606] [no run ID] resuming backend
