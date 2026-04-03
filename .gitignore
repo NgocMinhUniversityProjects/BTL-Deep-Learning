@@ -14,3 +14,11 @@ __pycache__/
 
 # Logs
 lightning_logs/
+BTL1/log/
+
+# Pipeline runtime state/cache (generated locally)
+BTL1/checkpoint/**/state/
+
+# Lightning checkpoints
+last.ckpt
+last-v*.ckpt
