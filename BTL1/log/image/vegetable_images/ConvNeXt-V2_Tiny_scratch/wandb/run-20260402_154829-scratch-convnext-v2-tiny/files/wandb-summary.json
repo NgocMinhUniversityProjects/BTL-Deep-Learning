@@ -1,1 +1,0 @@
-{"val/f1_macro":0.999666690826416,"val/acc":0.999666690826416,"val/loss":0.002154064131900668,"train/acc_step":1,"train/loss_step":0.00010833511623786762,"train/loss_epoch":0.00028867321088910103,"train/acc_epoch":0.9999333620071411,"_timestamp":1.775145715794483e+09,"_step":292,"epoch":5,"trainer/global_step":2813,"_wandb":{"runtime":17205},"_runtime":17205}
