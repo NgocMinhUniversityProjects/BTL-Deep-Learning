@@ -1,7 +1,7 @@
 {
   "dataset_tag": "vegetable_images",
   "created_at": "2026-04-01T12:19:31.841600+00:00",
-  "updated_at": "2026-04-02T08:48:27.031122+00:00",
+  "updated_at": "2026-04-02T22:34:04.298509+00:00",
   "steps": {
     "runtime_setup": {
       "status": "completed",
@@ -13,7 +13,7 @@
         "state_manifest": "checkpoint/image/vegetable_images/state/pipeline_state.json"
       },
       "detail": {},
-      "updated_at": "2026-04-02T08:48:23.353110+00:00",
+      "updated_at": "2026-04-02T22:34:00.331652+00:00",
       "created_at": "2026-04-01T12:19:31.841620+00:00"
     },
     "dataset_indexing": {
@@ -54,7 +54,7 @@
         "val_rows": 3000,
         "test_rows": 3000
       },
-      "updated_at": "2026-04-02T08:48:25.355061+00:00",
+      "updated_at": "2026-04-02T22:34:02.458640+00:00",
       "created_at": "2026-04-01T12:19:39.802457+00:00"
     },
     "dataloader_ready": {
@@ -66,7 +66,7 @@
         "val_batches": 94,
         "test_batches": 94
       },
-      "updated_at": "2026-04-02T08:48:26.562970+00:00",
+      "updated_at": "2026-04-02T22:34:03.797287+00:00",
       "created_at": "2026-04-01T12:19:41.105314+00:00"
     },
     "training_utils_ready": {
@@ -74,7 +74,7 @@
       "fingerprint": "0f353b3e5d4c9e777e33e3c7f0a53bbe66da63264608895f4222fc00aebda28a",
       "artifacts": {},
       "detail": {},
-      "updated_at": "2026-04-02T08:48:27.031111+00:00",
+      "updated_at": "2026-04-02T22:34:04.298496+00:00",
       "created_at": "2026-04-01T12:26:08.002887+00:00"
     }
   }
